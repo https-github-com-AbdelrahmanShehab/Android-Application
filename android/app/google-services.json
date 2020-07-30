@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "540714480654",
+    "firebase_url": "https://baby-156b1.firebaseio.com",
+    "project_id": "baby-156b1",
+    "storage_bucket": "baby-156b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540714480654:android:e76a79c4c6551e832df85f",
+        "android_client_info": {
+          "package_name": "com.baby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540714480654-en38h8jrmr4h3ngh8e2chr5et0nburpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1cB_v6lfjIjVfs4-7gsU_k-UQ1jB4Hy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540714480654-en38h8jrmr4h3ngh8e2chr5et0nburpq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "540714480654-o4oqc51vudj6d08mqun1r8s4qnqaifdn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.shehabweb.MyApp.Baby-Cradle"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540714480654:android:eaebc48691f6eacd2df85f",
+        "android_client_info": {
+          "package_name": "com.example.BabyMonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540714480654-en38h8jrmr4h3ngh8e2chr5et0nburpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1cB_v6lfjIjVfs4-7gsU_k-UQ1jB4Hy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540714480654-en38h8jrmr4h3ngh8e2chr5et0nburpq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "540714480654-o4oqc51vudj6d08mqun1r8s4qnqaifdn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.shehabweb.MyApp.Baby-Cradle"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
